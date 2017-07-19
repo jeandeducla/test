@@ -1,4 +1,6 @@
 # test
+# TECH CHOICES
+I mainly used two python libraries: pandas to manipulate the data and matplotlib for plots.
 
 # RECOMMENDATIONS TO IMPROVE THE SERVICE
 I found different types of problems related either to streams, ISPs or browsers. I’ll write the general conclusion here, the details of my approach can be found in the notebook. In what follows, we will refer to connected to the backend as ON and not connected to the backend as OFF. A good rate will refer to a p2p/cdn rate superior to 60%, a bad rate will refer to a p2p/cdn rate inferior to 60% and a zero rate will refer to a p2p/cdn rate exactly equal to 0:
